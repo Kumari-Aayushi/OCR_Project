@@ -213,7 +213,12 @@ Open `Offline_OCR.ipynb` in Google Colab or Jupyter Notebook.
 
 # 🧪 Datasets Used
 
-This project aligns with the following datasets:
+
+The dataset used in this project is available on Kaggle:
+
+🔗 *Kaggle Dataset Link:* https://www.kaggle.com/datasets/aayu3101/mixedtext500-ocr-dataset
+
+This dataset contains 500 images with handwritten, paragraph, and computer-printed English–Hindi text samples designed for OCR research.
 
 * **IIIT5K Word Dataset** – Scene text recognition
 * **IAM Handwriting Dataset** – English handwriting
